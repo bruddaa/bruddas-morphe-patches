@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.1...v1.1.2) (2026-09-02)
+
+### 🐛 Bug Fixes
+
+* resolve smali syntax error in premium patch ([99747a2](https://github.com/bruddaa/bruddas-morphe-patches/commit/99747a22de32af6ba33b6a140be71fd5a30e91fe))
+
 ## [1.1.1](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.0...v1.1.1) (2026-09-02)
 
 ### 🐛 Bug Fixes
