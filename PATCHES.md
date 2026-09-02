@@ -1,6 +1,6 @@
 # Patches
 
-> Generated from `patches-list.json` — **v1.1.3** (`main`) · **2 patches** across **2 apps** · back to [README](README.md)
+> Generated from `patches-list.json` — **v1.2.0** (`main`) · **3 patches** across **3 apps** · back to [README](README.md)
 
 ---
 
@@ -21,5 +21,15 @@
 | Patch | Details |
 |---|---|
 | **Unlock Premium** | Bypasses license validation and forces all premium flags to true. |
+
+---
+
+## Unit Converter (com.veewalabs.unitconverter)
+
+**Supported versions:** `2.0.2`
+
+| Patch | Details |
+|---|---|
+| **Unlock Pro** | Unlock pro features (no ads, no bookmark limit) |
 
 ---

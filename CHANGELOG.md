@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.3...v1.2.0) (2026-09-02)
+
+### ✨ New Features
+
+* Add Unit Converter patch ([5de97ba](https://github.com/bruddaa/bruddas-morphe-patches/commit/5de97ba2690df5fa06c5e1b8e3681107b204b5a8))
+* Add Unit Converter patch ([d33c39a](https://github.com/bruddaa/bruddas-morphe-patches/commit/d33c39af98655a58652fe60605783498f5bc4330))
+
 ## [1.1.3](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.2...v1.1.3) (2026-09-02)
 
 ### 🐛 Bug Fixes
