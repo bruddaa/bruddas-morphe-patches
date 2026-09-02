@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.2...v1.1.3) (2026-09-02)
+
+### 🐛 Bug Fixes
+
+* restore python script markers and track PATCHES.md ([4498061](https://github.com/bruddaa/bruddas-morphe-patches/commit/449806132a7e480c1000d97eee2b5bb90f3bb8a3))
+
 ## [1.1.2](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.1...v1.1.2) (2026-09-02)
 
 ### 🐛 Bug Fixes

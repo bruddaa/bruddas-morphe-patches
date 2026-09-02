@@ -27,6 +27,12 @@ Patches for a variety of apps. I created this repo for the main purpose to get t
 ## Available Patches
 
 <!-- PATCHES_START -->
+> **[v1.1.3](https://github.com/bruddaa/bruddas-morphe-patches/releases/tag/v1.1.3)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`main`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**2 patches** across **2 apps**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
+
+| # | App | Patches | Version | Package |
+|---|---|---|---|---|
+| 1 | [**Music player**](PATCHES.md#music-player-commediamusicmp3musicplayer) | 1 | `246.02` | [`com.media.music.mp3.musicplayer`](https://play.google.com/store/apps/details?id=com.media.music.mp3.musicplayer) |
+| 2 | [**PrinterShare**](PATCHES.md#printershare-comdynamixsoftwareprintershare) | 1 | `12.25.0` | [`com.dynamixsoftware.printershare`](https://play.google.com/store/apps/details?id=com.dynamixsoftware.printershare) |
 <!-- PATCHES_END -->
 <br><br>
 
