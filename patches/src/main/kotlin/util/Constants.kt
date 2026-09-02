@@ -25,4 +25,14 @@ object Constants {
             AppTarget(version = "12.25.0", versionCode = 550)
         )
     )
+
+    val UNITCONVERTER_COMPATIBILITY = Compatibility(
+        name = "Unit Converter",
+        packageName = "com.veewalabs.unitconverter",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x1A73E8,
+        targets = listOf(
+            AppTarget(version = "2.0.2", versionCode = 89)
+        )
+    )
 }
