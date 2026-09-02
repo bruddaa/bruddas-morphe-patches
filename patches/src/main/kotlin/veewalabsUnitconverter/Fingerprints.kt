@@ -2,14 +2,20 @@ package veewalabsUnitconverter
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.string
-import com.android.tools.smali.dexlib2.AccessFlags
+
+object Z2ClassAnchorFingerprint : Fingerprint(
+    returnType = "V",
+    parameters = listOf("Ljava/lang/String;", "Ljava/util/ArrayList;"),
+    filters = listOf(
+        string("‚‗‚")
+    )
+)
 
 object Fingerprint : Fingerprint(
     returnType = "V",
-    accessFlags = listOf(AccessFlags.PUBLIC),
     parameters = listOf("Lcom/revenuecat/purchases/CustomerInfo;"),
+    classFingerprint = Z2ClassAnchorFingerprint,
     filters = listOf(
-        string("Premium"),
         string("premium_removeads_purchased")
     )
 )
