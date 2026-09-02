@@ -9,7 +9,6 @@ object PremiumValidationMethodFingerprint : Fingerprint(
     accessFlags = listOf(AccessFlags.PUBLIC, AccessFlags.STATIC),
     parameters = listOf("Lcom/dynamixsoftware/printershare/x;"),
     filters = listOf(
-        // Both of these strings definitely live inside b()
         string("prm2_checked"),
         string("ru.vk.store")
     )
