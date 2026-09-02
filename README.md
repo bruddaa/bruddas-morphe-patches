@@ -24,40 +24,9 @@ Patches for a variety of apps. I created this repo for the main purpose to get t
 - Or add by URL `https://github.com/bruddaa/bruddas-morphe-patches`
 <br>
 
-## 🩹 Patches list
+## Available Patches
 
-<!-- PATCHES_START EXPANDED -->
-> **[v1.1.2](https://github.com/bruddaa/bruddas-morphe-patches/releases/tag/v1.1.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
-<details open>
-<summary>📦 Music player&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 246.02 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Remove Ads](#remove-ads) | Forces the ads-removed check to always return true. |  |
-
-</details>
-
-<details open>
-<summary>📦 PrinterShare&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 12.25.0 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Unlock Premium](#unlock-premium) | Bypasses license validation and forces all premium flags to true. |  |
-
-</details>
-
+<!-- PATCHES_START -->
 <!-- PATCHES_END -->
 <br><br>
 
