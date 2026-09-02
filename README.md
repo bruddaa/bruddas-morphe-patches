@@ -27,7 +27,7 @@ Patches for a variety of apps. I created this repo for the main purpose to get t
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.1](https://github.com/bruddaa/bruddas-morphe-patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.1.0](https://github.com/bruddaa/bruddas-morphe-patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Music player&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -39,7 +39,22 @@ Patches for a variety of apps. I created this repo for the main purpose to get t
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Remove Ads](#remove-ads) | Forces the ads-removed check to always return true. | - |
+| [Remove Ads](#remove-ads) | Forces the ads-removed check to always return true. |  |
+
+</details>
+
+<details open>
+<summary>📦 PrinterShare&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 12.25.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Bypasses license validation and forces all premium flags to true. |  |
 
 </details>
 

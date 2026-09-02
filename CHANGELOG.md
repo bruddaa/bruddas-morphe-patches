@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.0.1...v1.1.0) (2026-09-02)
+
+### ✨ New Features
+
+* add premium patch for printershare ([445a9f9](https://github.com/bruddaa/bruddas-morphe-patches/commit/445a9f906c89118287836b3a8ec3300875ad0f1b))
+
 ## [1.0.1](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.0.0...v1.0.1) (2026-08-30)
 
 ### 🐛 Bug Fixes
