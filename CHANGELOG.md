@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.1.0...v1.1.1) (2026-09-02)
+
+### 🐛 Bug Fixes
+
+* change fingerprint for printershare ([3f237f7](https://github.com/bruddaa/bruddas-morphe-patches/commit/3f237f74fc1b2ff11eb2d2b8c2bca4fdace92409))
+* change fingerprint for printershare ([7435e7b](https://github.com/bruddaa/bruddas-morphe-patches/commit/7435e7b0ce4b5bb93180e61075a3be38759c5dbe))
+
 ## [1.1.0](https://github.com/bruddaa/bruddas-morphe-patches/compare/v1.0.1...v1.1.0) (2026-09-02)
 
 ### ✨ New Features
