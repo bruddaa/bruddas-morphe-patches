@@ -65,6 +65,7 @@ Thanks to:
 
 - [Morphe](https://github.com/MorpheApp/)
 - [Revanced](https://github.com/revanced)
+- [rushiranpise](https://github.com/rushiranpise/morphe-patches/)
 
 ## 📜 License
 
